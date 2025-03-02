@@ -19,7 +19,7 @@ apply plugin: 'kotlin-android'
 
 android {
     // Yeni AGP sürümlerinde namespace zorunlu
-    namespace = "com.example.aks_moto_cycle_app"
+    namespace = "com.example.aks_moto_cycle_app.flutter_sms"
     compileSdk 33
 
     defaultConfig {
